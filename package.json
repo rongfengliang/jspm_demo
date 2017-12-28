@@ -1,0 +1,25 @@
+{
+  "jspm": {
+    "dependencies": {
+      "jquery": "npm:jquery@^3.2.1",
+      "shortid": "npm:shortid@^2.2.8"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  },
+  "name": "@dalongrong/demoapp",
+  "version": "1.0.1",
+  "description": "this is dalong demo",
+  "main": "index.js",
+  "author": "dalong",
+  "license": "MIT",
+  "dependencies": {
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "jspm": "^0.16.53"
+  }
+}
