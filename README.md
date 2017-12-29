@@ -1,3 +1,5 @@
+
+[![Build Status](https://travis-ci.org/rongfengliang/jspm_demo.svg?branch=master)](https://travis-ci.org/rongfengliang/jspm_demo.svg?branch=master)
 # jspm_demo web app
 
 > 简单的模块添加，以及构建 使用了jquery  以及一个 npm 模块 shortid ,jspm 可以帮助进行构建类似browserify
