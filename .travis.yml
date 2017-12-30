@@ -4,6 +4,8 @@ node_js:
  - "node"
 before_install:
 - npm install -g jspm
+- npm install -g yarn
+- yarn  
 - jspm install
 script:
 - jspm bundle lib/main --inject
